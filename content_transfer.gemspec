@@ -1,8 +1,8 @@
 
 Gem::Specification.new do |s|
   s.name        = 'content_transfer'
-  s.version     = '0.0.5'
-  s.date        = '2020-11-17'
+  s.version     = '0.1.0'
+  s.date        = '2020-11-22'
   s.summary     = "transfer content to html file"
   s.description = "very usefull gem"
   s.authors     = ["Yurii Lytvynenko"]
